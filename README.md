@@ -359,7 +359,7 @@ If you use this system in academic research, please cite:
 
 For issues, questions, or suggestions:
 - Open an issue on GitHub
-- Contact: [your-email@example.com]
+- Contact: 512mughees@gmail.com
 
 ## Changelog
 
